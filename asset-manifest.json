@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lgibldi/static/css/main.26a4d63e.chunk.css",
-    "main.js": "/lgibldi/static/js/main.73760b57.chunk.js",
-    "main.js.map": "/lgibldi/static/js/main.73760b57.chunk.js.map",
+    "main.js": "/lgibldi/static/js/main.c9fed592.chunk.js",
+    "main.js.map": "/lgibldi/static/js/main.c9fed592.chunk.js.map",
     "runtime-main.js": "/lgibldi/static/js/runtime-main.a4c46130.js",
     "runtime-main.js.map": "/lgibldi/static/js/runtime-main.a4c46130.js.map",
     "static/js/2.f709c5c1.chunk.js": "/lgibldi/static/js/2.f709c5c1.chunk.js",
     "static/js/2.f709c5c1.chunk.js.map": "/lgibldi/static/js/2.f709c5c1.chunk.js.map",
     "index.html": "/lgibldi/index.html",
-    "precache-manifest.f4943323d5d6258a211799dda0a953af.js": "/lgibldi/precache-manifest.f4943323d5d6258a211799dda0a953af.js",
+    "precache-manifest.ffcd3a8a403a403707b37049a50dc1fa.js": "/lgibldi/precache-manifest.ffcd3a8a403a403707b37049a50dc1fa.js",
     "service-worker.js": "/lgibldi/service-worker.js",
     "static/css/main.26a4d63e.chunk.css.map": "/lgibldi/static/css/main.26a4d63e.chunk.css.map",
     "static/js/2.f709c5c1.chunk.js.LICENSE.txt": "/lgibldi/static/js/2.f709c5c1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a4c46130.js",
     "static/js/2.f709c5c1.chunk.js",
     "static/css/main.26a4d63e.chunk.css",
-    "static/js/main.73760b57.chunk.js"
+    "static/js/main.c9fed592.chunk.js"
   ]
 }

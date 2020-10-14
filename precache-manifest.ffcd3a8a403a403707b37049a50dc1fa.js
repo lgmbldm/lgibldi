@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "581efadbc669b3f932e27af6bd355879",
+    "revision": "195c586a88643f6d27b35d9c7cca46ec",
     "url": "/lgibldi/index.html"
   },
   {
-    "revision": "74f035b34c4e7bca8936",
+    "revision": "2cb3b2940071bf56c077",
     "url": "/lgibldi/static/css/main.26a4d63e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lgibldi/static/js/2.f709c5c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74f035b34c4e7bca8936",
-    "url": "/lgibldi/static/js/main.73760b57.chunk.js"
+    "revision": "2cb3b2940071bf56c077",
+    "url": "/lgibldi/static/js/main.c9fed592.chunk.js"
   },
   {
     "revision": "c90cbcf59c774ed9cdaa",
